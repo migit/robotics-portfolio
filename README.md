@@ -9,32 +9,78 @@ Welcome! I'm Migit, an embedded systems and robotics developer.
 
 ## Featured Projects
 
-### ESP32 Autonomous Robot
-- Obstacle avoidance
-- Odometry
-- Differential drive
-- OLED interface
+### Autonomous ESP32 Robot
 
-### Custom ESP32 PCB
-- TMC2209 stepper driver
-- MPU6050 IMU
-- VL53L0X ToF sensor
-- USB-C programming
+* Differential drive navigation
+* Obstacle avoidance
+* Wheel encoder odometry
+* IMU-assisted motion control
+* OLED status interface
+* Bluetooth remote operation
 
-### UNIHIKER Robot Eyes
-- Vector-inspired animations
-- Gyroscope gaze tracking
-- Dynamic expressions
+### Custom Robotics Controller PCB
+
+* ESP32-based control system
+* TMC2209 motor driver integration
+* MPU6050 IMU
+* VL53L0X ToF sensing
+* USB-C programming and debugging
+* Modular sensor expansion
+
+### UNIHIKER Robot Interface
+
+* Vector-inspired eye animations
+* Gyroscope-based gaze tracking
+* Dynamic mood expressions
+* Real-time sensor visualization
+* Interactive robot UI development
+
+### Robotics Software Development
+
+* Sensor integration and calibration
+* Motor control algorithms
+* Embedded user interfaces
+* Autonomous behavior development
+* Wireless communication systems
 
 ## Skills
 
-- ESP32
-- Arduino
-- C++
-- Python
-- KiCad
-- PCB Design
-- Embedded Systems
+### Robotics
+
+* Mobile Robotics
+* Differential Drive Systems
+* Odometry
+* Sensor Fusion
+* Obstacle Avoidance
+* Robot Control Systems
+
+### Embedded Systems
+
+* ESP32 Development
+* Arduino Framework
+* Embedded C++
+* Real-Time Sensor Processing
+* I2C / UART Communication
+* Firmware Development
+
+### Hardware
+
+* PCB Design
+* KiCad
+* Electronics Prototyping
+* Motor Driver Integration
+* Sensor Integration
+* Power Management
+
+### Software
+
+* C++
+* Python
+* Git
+* ROS 2 (Learning)
+* Computer Vision (Learning)
+* Technical Documentation
+
 
 ## Portfolio Website
 
