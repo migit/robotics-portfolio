@@ -18,7 +18,7 @@ Welcome! I'm Migit, an embedded systems and robotics developer.
 * Autonomous navigation stack
 * Embedded edge computing architecture
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3)](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3)](https://github-readme-stats.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3&format=png)
 
 ### Custom Robotics Electronics & PCB Design
 
