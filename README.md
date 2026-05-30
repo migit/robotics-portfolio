@@ -1,7 +1,8 @@
+
 # Robotics Portfolio
 <p align="center">
   <a href="https://myworks.gt.tc/">
-     <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/efd0d850-7d26-4f49-b3dd-a7778a338223" />
+     <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/a7172143-c99e-40fb-add5-1100da4c2fe5" />
   </a>
 </p>
 Welcome! I'm Migit, an embedded systems and robotics developer.
