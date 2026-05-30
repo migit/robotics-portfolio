@@ -8,6 +8,25 @@
 Welcome! I'm Migit, an embedded systems and robotics developer.
 # Featured Robotics Projects
 
+fetch("https://api.github.com/users/migit/repos")
+  .then(res => res.json())
+  .then(repos => {
+      const grid = document.getElementById("projects");
+
+      repos.forEach(repo => {
+          grid.innerHTML += `
+              <a href="${repo.html_url}"
+                 target="_blank"
+                 class="project-card">
+
+                  <h3>${repo.name}</h3>
+                  <p>${repo.description || "No description"}</p>
+
+              </a>
+          `;
+      });
+  });
+
 ### Autonomous Mobile Robotics Platform
 
 * Multi-sensor perception fusion
