@@ -19,7 +19,7 @@ Welcome! I'm Migit, an embedded systems and robotics developer.
 * Embedded edge computing architecture
 * Web based telemetric dashboard for diagnosing robotic systems and sensors
 
-  <img width="800" height="850" alt="screen_shot" src="https://github.com/user-attachments/assets/df703b77-e97c-4b6b-a1b2-dcb04c51a19d" />
+  <img width="800" height="400" alt="screen_shot" src="https://github.com/user-attachments/assets/df703b77-e97c-4b6b-a1b2-dcb04c51a19d" />
 
 
 ### Custom Robotics Electronics & PCB Design
