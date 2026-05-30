@@ -8,24 +8,6 @@
 Welcome! I'm Migit, an embedded systems and robotics developer.
 # Featured Robotics Projects
 
-fetch("https://api.github.com/users/migit/repos")
-  .then(res => res.json())
-  .then(repos => {
-      const grid = document.getElementById("projects");
-
-      repos.forEach(repo => {
-          grid.innerHTML += `
-              <a href="${repo.html_url}"
-                 target="_blank"
-                 class="project-card">
-
-                  <h3>${repo.name}</h3>
-                  <p>${repo.description || "No description"}</p>
-
-              </a>
-          `;
-      });
-  });
 
 ### Autonomous Mobile Robotics Platform
 
@@ -35,6 +17,8 @@ fetch("https://api.github.com/users/migit/repos")
 * Differential drive motion control
 * Autonomous navigation stack
 * Embedded edge computing architecture
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3)](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3)
 
 ### Custom Robotics Electronics & PCB Design
 
