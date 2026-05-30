@@ -6,81 +6,89 @@
   </a>
 </p>
 Welcome! I'm Migit, an embedded systems and robotics developer.
+# Featured Robotics Projects
 
-## Featured Projects
+### Autonomous Mobile Robotics Platform
 
-### Autonomous ESP32 Robot
+* Multi-sensor perception fusion
+* SLAM and localization
+* Real-time obstacle avoidance
+* Differential drive motion control
+* Autonomous navigation stack
+* Embedded edge computing architecture
 
-* Differential drive navigation
-* Obstacle avoidance
-* Wheel encoder odometry
-* IMU-assisted motion control
-* OLED status interface
-* Bluetooth remote operation
+### Custom Robotics Electronics & PCB Design
 
-### Custom Robotics Controller PCB
+* ESP32-based robotics controller
+* High-performance motor control systems
+* Multi-layer PCB development
+* Sensor fusion hardware integration
+* Power distribution and battery management
 
-* ESP32-based control system
-* TMC2209 motor driver integration
-* MPU6050 IMU
-* VL53L0X ToF sensing
-* USB-C programming and debugging
-* Modular sensor expansion
+### Intelligent Robot Vision System
 
-### UNIHIKER Robot Interface
+* Computer vision pipeline development
+* Real-time object detection and tracking
+* Depth sensing integration
+* Sensor calibration and synchronization
+* Edge AI deployment
+* Autonomous perception algorithms
 
-* Vector-inspired eye animations
-* Gyroscope-based gaze tracking
-* Dynamic mood expressions
-* Real-time sensor visualization
-* Interactive robot UI development
+### Human-Robot Interaction Systems
 
-### Robotics Software Development
+* Expressive robotic interfaces
+* Adaptive behavior generation
+* Sensor-driven interaction models
+* Real-time state visualization
+* Interactive embedded displays
+* Autonomous behavioral control
 
-* Sensor integration and calibration
-* Motor control algorithms
-* Embedded user interfaces
-* Autonomous behavior development
-* Wireless communication systems
-
-## Skills
+# Core Expertise
 
 ### Robotics
 
-* Mobile Robotics
-* Differential Drive Systems
-* Odometry
-* Sensor Fusion
-* Obstacle Avoidance
-* Robot Control Systems
+* Autonomous Mobile Robots (AMR)
+* SLAM & Localization
+* Navigation Systems
+* Path Planning
+* Motion Control
+* Robot Perception
 
 ### Embedded Systems
 
-* ESP32 Development
-* Arduino Framework
-* Embedded C++
-* Real-Time Sensor Processing
-* I2C / UART Communication
-* Firmware Development
+* ESP32 Architecture
+* Real-Time Embedded Development
+* Firmware Engineering
+* Hardware-Software Co-Design
+* Sensor Fusion
+* IoT Robotics
 
-### Hardware
-
-* PCB Design
-* KiCad
-* Electronics Prototyping
-* Motor Driver Integration
-* Sensor Integration
-* Power Management
-
-### Software
+### Software Engineering
 
 * C++
 * Python
-* Git
-* ROS 2 (Learning)
-* Computer Vision (Learning)
-* Technical Documentation
+* Embedded Linux
+* ROS 2
+* Computer Vision
+* AI Integration
 
+### Electronics & Hardware
+
+* PCB Design
+* KiCad
+* Motor Control Electronics
+* Power Electronics
+* Sensor Integration
+* Rapid Prototyping
+
+### Research & Innovation
+
+* Robotics R&D
+* Autonomous Systems
+* Intelligent Machines
+* Robotic Prototyping
+* Mechatronics ()
+* Technology Innovation
 
 ## Portfolio Website
 
