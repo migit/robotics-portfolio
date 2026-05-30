@@ -17,8 +17,8 @@ Welcome! I'm Migit, an embedded systems and robotics developer.
 * Differential drive motion control
 * Autonomous navigation stack
 * Embedded edge computing architecture
-
-![Readme Card](https://github-readme-stats-git-master-rogue.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3)
+  
+![Readme Card](https://github-readme-stats-eight.vercel.app/api/pin/?username=migit&repo=AI-Autonomous-Room-Rover-Robot-A2R3)
 
 ### Custom Robotics Electronics & PCB Design
 
